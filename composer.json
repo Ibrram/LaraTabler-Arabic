@@ -25,5 +25,5 @@
             "email": "9iro@bk.ru"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
