@@ -1,0 +1,29 @@
+{
+    "name": "ibrram/lara-tabler-arabic",
+    "description": "use Tabler admin panel with laravel in an easy way",
+    "type": "library",
+    "require": {
+        "illuminate/support": "^8.0",
+        "laravel/ui": "^3.3"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Piro\\LaraTabler\\LaraTablerServiceProvider"
+            ]
+        }
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Piro\\LaraTabler\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "PiRo",
+            "email": "9iro@bk.ru"
+        }
+    ],
+    "minimum-stability": "stable"
+}
