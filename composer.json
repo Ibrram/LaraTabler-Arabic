@@ -1,5 +1,5 @@
 {
-    "name": "ibrram/lara-tabler-arabic",
+    "name": "ibram/lara-tabler-arabic",
     "description": "use Tabler admin panel with laravel in an easy way",
     "type": "library",
     "require": {
