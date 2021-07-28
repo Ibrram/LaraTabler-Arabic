@@ -2,7 +2,7 @@
 this package should save some time of downloading the tabler files then move it to the project this package includes the files of tabler version: `1.0.0-alpha.7` all you need just publish the vendor
 
 # Screenshot
-[![Arabic Tabler](https://lh4.googleusercontent.com/gKrAPKQyKcHc9dVvDMfHHiwU48PhFDWdIzdB7XC-YBUbaYyZwtkxInrk1cTWWrVWrbbMKBQdEHFeVw=w1318-h667-rw "Arabic Tabler")](https://lh4.googleusercontent.com/gKrAPKQyKcHc9dVvDMfHHiwU48PhFDWdIzdB7XC-YBUbaYyZwtkxInrk1cTWWrVWrbbMKBQdEHFeVw=w1318-h667-rw "Arabic Tabler")
+[![Arabic Tabler](https://drive.google.com/uc?export=view&id=1hICKF9wxvjZfBGq6tVMy4IKMQTFhDHzo "Arabic Tabler")](https://drive.google.com/uc?export=view&id=1hICKF9wxvjZfBGq6tVMy4IKMQTFhDHzo "Arabic Tabler")
 ## Current Version of Tabler
 - 27 july, 2021 `1.0.0-alpha.7` **(Current)**
 
