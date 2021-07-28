@@ -8,7 +8,7 @@ this package should save some time of downloading the tabler files then move it 
 
 # How to use ?
 Firstly you need to download the package via Composer
-> composer require ibrram/lara-tabler-arabic
+> composer require ibram/lara-tabler-arabic
 
 then you need to publish the files
 
