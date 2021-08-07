@@ -3,6 +3,7 @@
 namespace Piro\LaraTabler;
 
 use Illuminate\Support\ServiceProvider;
+use Piro\LaraTabler\LaraTablerInstallCommand;
 
 class LaraTablerServiceProvider extends ServiceProvider
 {
@@ -13,7 +14,7 @@ class LaraTablerServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        //
+        $this->commands(LaraTablerInstallCommand::class);
     }
 
     /**
